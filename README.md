@@ -10,14 +10,14 @@
 <nav>
     <a href="index.html">Início</a>
      <a href="cardápio.html">Cardápio</a>
-        <a href="promoções.html">Promoções</a>
         <a href="sobre.html">Sobre Nós</a>
         <a href="avaliação.html">Avaliação</a>
-        <a href="fidelidade.html">Fidelidade</a>
+        <a href="eventos.html">Eventos</a>
+   <a href="reservas.html">Reservas</a> 
+    <a href="delivery.html">Delivery</a>
         <a href="contato.html">Contato</a>
-        <a href="cadastro.html">Cadastro</a>
 </nav>
-       <h1><p>Faça seu pedido!</p></h1>
+       <h1><p>Jogar videogame nunca foi mais gostoso do que saborear uma pizza suculenta</p></h1>
 
 </body>
 </html>  
