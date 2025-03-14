@@ -18,7 +18,7 @@
         <a href="contato.html">Contato</a>
     <a href="perguntas frequentes.html">Perguntas Mais Frequentes</a>
 </nav>
-       <h1><p>Jogar videogame nunca foi mais gostoso do que saborear uma pizza suculenta</p></h1>
+       <h2><p>Jogar videogame nunca foi mais gostoso do que saborear uma pizza suculenta</p></h2>
 
 </body>
 </html>  
