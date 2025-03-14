@@ -17,7 +17,7 @@
         <a href="contato.html">Contato</a>
         <a href="cadastro.html">Cadastro</a>
 </nav>
-       <font color="white"><h1><p>Faça seu pedido!</p></h1></font>
+       <h1><p>Faça seu pedido!</p></h1>
 
 </body>
 </html>  
